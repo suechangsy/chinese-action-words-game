@@ -88,3 +88,28 @@ button {
   margin-top: 15px;
   font-size: 16px;
 }
+.sentence {
+  margin-bottom: 18px;
+}
+
+.sentence .zh {
+  font-size: 24px;
+  font-weight: bold;
+}
+
+.sentence .py {
+  font-size: 18px;
+  color: #444;
+}
+
+.sentence .en {
+  font-size: 16px;
+  color: #666;
+}
+
+.blank {
+  display: inline-block;
+  min-width: 120px;
+  border-bottom: 2px solid #000;
+  text-align: center;
+}
